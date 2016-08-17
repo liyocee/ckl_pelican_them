@@ -1,7 +1,7 @@
 # Pelican Theme
 ----------------
 
-This is my custom pelican theme for my [blog](http://liyosi.com){:targe='_blank'}
+This is my custom pelican theme for my [blog](http://liyosi.com){:target='_blank'}
 
 It is based on the Start Bootstrap's [clean blog theme](https://blackrockdigital.github.io/startbootstrap-clean-blog/), with a few customizations that I did.
 
